@@ -1,0 +1,46 @@
+ 153    7
+      681
+     7   
+28  3    
+ 97   46 
+    9  72
+   8     
+146      
+7    459 
+
+
+
+
+
+
+
+
+
+ 3 95   8
+8  3 2   
+2 9   35 
+ 5  71   
+ 24   76 
+   62  4 
+ 62   5 4
+   2 6  1
+9   35 7 
+
+
+
+
+The program will only look at the first 9 lines of the input file
+
+Format:
+Number 1-9 where the number goes
+space for no number
+newline for new row
+
+
+Build:
+g++ *.cpp -o ssolver
+
+You may need to 
+chmod u+x ssolver
+
+You can use this file with redirection: ./ssolver < sudokustrings.txt
